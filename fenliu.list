@@ -83,7 +83,7 @@ HOST-KEYWORD, adv.ccb.com, REJECT
 HOST, dns.jd.com, REJECT
 IP-CIDR, 101.124.19.122/32, REJECT
 IP6-CIDR, 2402:db40:5100:1011::5/128, REJECT
-HOST-KEYWORD，sh.jd.com，REJECT
+HOST-KEYWORD, sh.jd.com, REJECT
 
 # ======= K ======= #
 
