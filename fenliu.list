@@ -170,7 +170,6 @@ HOST, sdkconfig.ad.xiaomi.com, REJECT
 # 优酷
 HOST, acs.youku.com, REJECT
 HOST, adsmind.ugdtimg.com, REJECT
-HOST, amdc.m.youku.com, REJECT
 HOST, api.sm.cn, REJECT
 HOST, apiv4-iyes.youku.com, REJECT
 HOST, cad.youku.com, REJECT
