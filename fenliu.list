@@ -156,6 +156,7 @@ HOST-SUFFIX, 163jiasu.com, REJECT
 # 微博 开屏广告
 HOST, huodong.weibo.cn, REJECT
 HOST-SUFFIX, biz.weibo.com, REJECT
+HOST, sdkapp.uve.weibo.com, direct
 # 微信
 HOST, finderks.video.qq.com, REJECT
 HOST, finderv1.video.qq.com, REJECT
